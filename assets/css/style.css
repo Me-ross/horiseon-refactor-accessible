@@ -64,18 +64,20 @@ p {
     background-position: center;
 }
 
-/* Loation of the 3 navigation links */
+/* Properties of the 3 sections the navigation links to */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* image to be positioned on the left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* image to be positioned to the right */
 .float-right {
     float: right;
     margin-left: 25px;
@@ -100,7 +102,7 @@ p {
     font-size: 36px;
 }
 
-/* Location of 3 benefit sections on the right of content section */
+/* Properties of 3 benefit sections on the right of content section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
