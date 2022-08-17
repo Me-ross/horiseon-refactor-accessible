@@ -33,7 +33,7 @@ Refactor Horiseon website's existing code to make it more accessible to websites
 
 ## Final Submission
 ---
-1. Refactored and more accesible website can be seen at: [Horiseon](http:)
+1. Refactored and Accesible website can be seen at: [Horiseon](http:)
 
-2. Repository for Horiseon porject can be found at: [GitHub](http:)
+2. Repository for Horiseon project can be found at: [GitHub](http:)
 
