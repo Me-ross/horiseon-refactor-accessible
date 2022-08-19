@@ -71,18 +71,6 @@ p {
     margin-left: 20px;
 }
 
-/* image to be positioned on the left */
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-/* image to be positioned to the right */
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
 /* Setting the content class properties for div, h2 and img */
 .content div {
     margin-bottom: 20px;
@@ -95,6 +83,18 @@ p {
 
 .content img {
     max-height: 200px;   
+}
+
+/* image to be positioned on the left */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+/* image to be positioned to the right */
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
 
 .content h2 {
@@ -138,6 +138,6 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+footer h3 {
     font-size: 20px;
 }
